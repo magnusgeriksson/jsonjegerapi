@@ -13,22 +13,21 @@
     "proveskudd": [
       {
         "antall": 5,
-        "dato": "2019-09-24"
+        "dato": "2020-02-01"
       },
       {
         "antall": 5,
-        "dato": "2019-09-24"
+        "dato": "2020-02-01"
       },
       {
         "antall": 10,
-        "dato": "2019-09-25"
+        "dato": "2020-02-02"
       },
       {
         "antall": 20,
-        "dato": "2019-09-25"
+        "dato": "2020-02-02"
       }
     ],
-    "skyteprover": [],
     "vaapen": [
       {
         "lopenr": "1",
@@ -49,6 +48,110 @@
     ]
   },
   "proveskudd": {
-    "a": "b"
+    "jeger": {
+      "navn": "Jan Jegersen",
+      "fodselsaar": "1987",
+      "jegernr": "00399511"
+    },
+    "jaktaar": "2019/2020",
+    "betalt": true,
+    "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
+    "lisensArter": "Jerv, Gaupe, Bjørn, Ulv",
+    "vaapenkortUrl": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
+    "proveskudd": [
+      {
+        "antall": 10,
+        "dato": "2020-02-15"
+      },
+      {
+        "antall": 5,
+        "dato": "2020-02-01"
+      },
+      {
+        "antall": 5,
+        "dato": "2020-02-01"
+      },
+      {
+        "antall": 10,
+        "dato": "2020-02-02"
+      },
+      {
+        "antall": 20,
+        "dato": "2020-02-02"
+      }
+    ],
+    "vaapen": [
+      {
+        "lopenr": "1",
+        "nummer": "7761234",
+        "navn": "Tikka",
+        "kaliber": "30-06",
+        "gyldigJaktaar": "2019",
+        "godkjentdato": "2019-10-24"
+      },
+      {
+        "lopenr": "2",
+        "nummer": "8542",
+        "navn": "Sako",
+        "kaliber": "6,5x55",
+        "gyldigJaktaar": "2019",
+        "godkjentdato": "2019-10-24"
+      }
+    ]
+  },
+  "skyteprove": {
+    "jeger": {
+      "navn": "Jan Jegersen",
+      "fodselsaar": "1987",
+      "jegernr": "00399511"
+    },
+    "jaktaar": "2019/2020",
+    "betalt": true,
+    "jakttype": "Alt vilt, unntatt elg, hjort og villrein",
+    "lisensArter": "Jerv, Gaupe, Bjørn, Ulv",
+    "vaapenkortUrl": "https://jegerkontroll.brreg.no/sjekkJeger?id=bdaf07b0c11147109e64ccb51955d2e1",
+    "proveskudd": [
+      {
+        "antall": 5,
+        "dato": "2020-02-01"
+      },
+      {
+        "antall": 5,
+        "dato": "2020-02-01"
+      },
+      {
+        "antall": 10,
+        "dato": "2020-02-02"
+      },
+      {
+        "antall": 20,
+        "dato": "2020-02-02"
+      }
+    ],
+    "skyteprover": [
+      {
+        "dato": "2020-02-15",
+        "vaapennr": "8542"
+      }
+    ],
+    "vaapen": [
+      {
+        "lopenr": "1",
+        "nummer": "7761234",
+        "navn": "Tikka",
+        "kaliber": "30-06",
+        "gyldigJaktaar": "2019",
+        "godkjentdato": "2019-10-24"
+      },
+      {
+        "lopenr": "2",
+        "nummer": "8542",
+        "navn": "Sako",
+        "kaliber": "6,5x55",
+        "gyldigJaktaar": "2019",
+        "godkjentdato": "2019-10-24"
+      }
+    ]
   }
 }
+
