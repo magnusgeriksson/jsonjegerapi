@@ -30,15 +30,15 @@
     ],
     "vaapen": [
       {
-        "lopenr": "1",
+        "lopenr": 1,
         "nummer": "7761234",
-        "navn": "Tikka",
-        "kaliber": "30-06",
+        "navn": "Browning X-Bolt Comp",
+        "kaliber": "6,5 x 55 SCAN",
         "gyldigJaktaar": "2019",
         "godkjentdato": "2019-10-24"
       },
       {
-        "lopenr": "2",
+        "lopenr": 2,
         "nummer": "8542",
         "navn": "Sako",
         "kaliber": "6,5x55",
@@ -82,15 +82,15 @@
     ],
     "vaapen": [
       {
-        "lopenr": "1",
+        "lopenr": 1,
         "nummer": "7761234",
-        "navn": "Tikka",
-        "kaliber": "30-06",
+        "navn": "Browning X-Bolt Comp",
+        "kaliber": "6,5 x 55 SCAN",
         "gyldigJaktaar": "2019",
         "godkjentdato": "2019-10-24"
       },
       {
-        "lopenr": "2",
+        "lopenr": 2,
         "nummer": "8542",
         "navn": "Sako",
         "kaliber": "6,5x55",
@@ -128,23 +128,17 @@
         "dato": "2020-02-04"
       }
     ],
-    "skyteprover": [
+        "vaapen": [
       {
-        "dato": "2020-02-15",
-        "vaapennr": "8542"
-      }
-    ],
-    "vaapen": [
-      {
-        "lopenr": "1",
+        "lopenr": 1,
         "nummer": "7761234",
-        "navn": "Tikka",
-        "kaliber": "30-06",
+        "navn": "Browning X-Bolt Comp",
+        "kaliber": "6,5 x 55 SCAN",
         "gyldigJaktaar": "2019",
         "godkjentdato": "2019-10-24"
       },
       {
-        "lopenr": "2",
+        "lopenr": 2,
         "nummer": "8542",
         "navn": "Sako",
         "kaliber": "6,5x55",
